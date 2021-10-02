@@ -34,7 +34,7 @@ Our Dataset has Years and Months. And if there is a need, we can drill down our 
 
 * 1] Downloaded all the zip files from 2015 until 2020 [72 files].
 * 2] Grain of data in these files is Days, Hours and minutes.
-* 3] Firstly we extract and consolidate data for 5 years into an excel workbook.
+* 3] Firstly we extract and consolidate data for 6 years into an excel workbook.
 * 4] Next, we filter [on station id] our data to focus and analyze only one specific Station(location) in the NYC market.
 * 5] Next, we use Pivot table to covert Trip duration into count of Trips by Day for Station ‘2006’
 * 6] Next, we Aggregate Count of Trips from Day to Month roll up
