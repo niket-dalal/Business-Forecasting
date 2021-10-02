@@ -15,7 +15,7 @@ GITHUB ASSIGNMENT
 
 We will carry out the following steps and validations to measure the accuracy of the forecast
 * Measure the forecast value and observed value and calculate the error
-* Measure percentage errors, root mean sqare errors and mean absolute error
+* Measure percentage errors, root mean square errors and mean absolute error
 * Splitting dataset into training and testing and then training the test dataset to measure the accuracy of the model's forecast.
 
 
